@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 22, 2019, 10:01:03 PM
+    Author     : omiro
+*/
+
+.container{
+    width: 100%;
+}
+
+
+
+#mainTable {
+    margin: auto;
+}
+
+#mainTableHead{
+    font-size: 18px;
+}
+
+#mainTableHeadCol-1 {
+    width: 3%;
+    color: dodgerblue;
+}
+
+#mainTableHeadCol-2 {
+    width: 33%;
+    text-align: left;
+    color: dodgerblue;
+}
+
+#mainTableHeadCol-3 {
+    width: 3%;
+}
+
+
